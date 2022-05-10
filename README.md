@@ -1,5 +1,3 @@
 # aulaFerramentas
-	
-	Teste de alteração
-
-	*dominio1*
+	aprendendo à alterar uma repositório pelo Github DeskTop
+	09-05
